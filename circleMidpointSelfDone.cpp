@@ -39,7 +39,7 @@ else{
     plotPixels(x,y,xc,yc);
     pk=pk+2*x-2*y+5;
 }
-system("pause");
+//system("pause");
   }
     system("pause");
 }
