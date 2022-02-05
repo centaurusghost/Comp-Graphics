@@ -39,6 +39,7 @@ else{
     plotPixels(x,y,xc,yc);
     pk=pk+2*x-2*y+5;
 }
+//uncomment below to perform single stepping
 //system("pause");
   }
     system("pause");
